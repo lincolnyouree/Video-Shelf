@@ -15,5 +15,5 @@
 
 ### Screenshots: 
 
-![Wireframe]()
-![Wireframe]()
+![Wireframe](https://i.imgur.com/GHjdQEr.png)
+![Wireframe](https://i.imgur.com/FJG8qkN.png)
