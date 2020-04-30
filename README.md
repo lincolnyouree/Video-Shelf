@@ -8,6 +8,7 @@
 * Node | Express
 * HTML | EJS
 * CSS
+* Mongoose
 * GitHub
 
 ### Screenshots: 
